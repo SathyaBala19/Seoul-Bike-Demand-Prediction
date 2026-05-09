@@ -44,3 +44,6 @@ This is a regression problem because the target value is numerical.
 
 ## ScreenShot
 <img width="2558" height="1451" alt="image" src="https://github.com/user-attachments/assets/d9c3f967-bcaf-4b17-a893-b15b30f5ad99" />
+
+## Credit 
+Project idea inspired by DataCamp’s “33 Machine Learning Projects for All Levels in 2026.”
