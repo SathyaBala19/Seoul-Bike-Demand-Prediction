@@ -43,4 +43,4 @@ The problem is to predict the number of rented bikes for a given set of input co
 This is a regression problem because the target value is numerical.
 
 ## ScreenShot
-<img width="2559" height="1440" alt="image" src="https://github.com/user-attachments/assets/6f7198e5-2808-4b41-926f-5ce41459e93b" />
+<img width="2559" height="1437" alt="image" src="https://github.com/user-attachments/assets/6ee2aa65-36ee-418e-87de-16b914c9483a" />
