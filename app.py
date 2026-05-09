@@ -15,7 +15,7 @@ def load_model():
 
 model = load_model()
 
-st.title("🚲 Seoul Bike Demand Prediction App")
+st.title("Seoul Bike Demand Prediction App")
 
 st.write("""
 This app predicts the expected number of rented bikes based on weather,
